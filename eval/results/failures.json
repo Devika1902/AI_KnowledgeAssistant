@@ -1,0 +1,1028 @@
+{
+  "keyword": [
+    {
+      "id": "q02-1",
+      "question": "Which details belong in a suspected incident report?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6893
+    },
+    {
+      "id": "q02-2",
+      "question": "What information should an employee provide when reporting a security event?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.7306
+    },
+    {
+      "id": "q02-3",
+      "question": "What must be recorded about an incident when it is reported?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.6313
+    },
+    {
+      "id": "q02-4",
+      "question": "Which three details does the incident report need?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6027
+    },
+    {
+      "id": "q02-5",
+      "question": "What should I include when I notify the security team?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6867
+    },
+    {
+      "id": "q03-1",
+      "question": "What is the minimum permitted password length?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.2472
+    },
+    {
+      "id": "q03-3",
+      "question": "What password length does the example policy require?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4409
+    },
+    {
+      "id": "q04-3",
+      "question": "Do remote users have to use MFA?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.447
+    },
+    {
+      "id": "q04-4",
+      "question": "Which authentication requirement applies outside the office?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4604
+    },
+    {
+      "id": "q05-3",
+      "question": "When can a closed support request be deleted?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.53
+    },
+    {
+      "id": "q06-3",
+      "question": "When may a security incident record be deleted under the example policy?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6656
+    },
+    {
+      "id": "q07-1",
+      "question": "How long are unsuccessful applicants' recruitment records retained?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.7831
+    },
+    {
+      "id": "q07-2",
+      "question": "When can records for applicants who were not hired be deleted?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.6582
+    },
+    {
+      "id": "q07-5",
+      "question": "How long does the example policy preserve unsuccessful applicant files?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.5688
+    },
+    {
+      "id": "q10-1",
+      "question": "How far ahead should staff submit an annual leave request?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7507
+    },
+    {
+      "id": "q10-2",
+      "question": "What is the notice period for requesting leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6458
+    },
+    {
+      "id": "q10-3",
+      "question": "When should a vacation request be filed relative to its start date?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5839
+    },
+    {
+      "id": "q10-4",
+      "question": "How many days in advance should leave be requested?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7002
+    },
+    {
+      "id": "q10-5",
+      "question": "What lead time does the example policy ask for annual leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7715
+    },
+    {
+      "id": "q11-2",
+      "question": "What is the leave carryover limit and its expiry date?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6657
+    },
+    {
+      "id": "q11-3",
+      "question": "How many vacation days can roll into the next year, and when do they expire?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.586
+    },
+    {
+      "id": "q11-4",
+      "question": "When must carried-over leave be taken?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6395
+    },
+    {
+      "id": "q11-5",
+      "question": "What happens to unused leave at year end?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7116
+    },
+    {
+      "id": "q12-3",
+      "question": "What is the first-day illness notification deadline?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4433
+    },
+    {
+      "id": "q13-2",
+      "question": "How quickly should IT first respond to a critical issue?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6193
+    },
+    {
+      "id": "q14-2",
+      "question": "How soon should IT first respond to a normal service request?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6193
+    },
+    {
+      "id": "q14-4",
+      "question": "When should a standard request receive its first reply?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6193
+    },
+    {
+      "id": "q15-3",
+      "question": "How many inactive minutes are allowed before a device locks?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.5329
+    },
+    {
+      "id": "q15-5",
+      "question": "What inactivity timeout does the device policy require?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "it_support_policy.md",
+      "top_score": 0.4568
+    },
+    {
+      "id": "q16-5",
+      "question": "What update installation window does the example IT policy set?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5169
+    },
+    {
+      "id": "q17-5",
+      "question": "What is the recommended lead time for travel reservations?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.5807
+    },
+    {
+      "id": "q18-5",
+      "question": "Is prior manager approval required for bookings?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.5852
+    },
+    {
+      "id": "q19-1",
+      "question": "When does a travel expense require an itemised receipt?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.7427
+    },
+    {
+      "id": "q19-2",
+      "question": "What is the receipt threshold for expenses?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.5094
+    },
+    {
+      "id": "q19-4",
+      "question": "Which expenses must be supported by an itemised receipt?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6439
+    },
+    {
+      "id": "q19-5",
+      "question": "At what amount does the travel policy require a receipt?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.6712
+    },
+    {
+      "id": "q20-3",
+      "question": "What is the mileage reimbursement rate?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.5226
+    },
+    {
+      "id": "u04",
+      "question": "What is the approved hotel price cap for business trips?",
+      "answerable": false,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": null,
+      "top_source": "travel_policy.md",
+      "top_score": 0.6365
+    }
+  ],
+  "semantic": [
+    {
+      "id": "q01-2",
+      "question": "What is the reporting deadline after discovering a possible security incident?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6125
+    },
+    {
+      "id": "q01-4",
+      "question": "What time limit applies to reporting suspected security events?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6158
+    },
+    {
+      "id": "q02-1",
+      "question": "Which details belong in a suspected incident report?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5009
+    },
+    {
+      "id": "q02-2",
+      "question": "What information should an employee provide when reporting a security event?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5579
+    },
+    {
+      "id": "q02-3",
+      "question": "What must be recorded about an incident when it is reported?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4435
+    },
+    {
+      "id": "q02-4",
+      "question": "Which three details does the incident report need?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5182
+    },
+    {
+      "id": "q02-5",
+      "question": "What should I include when I notify the security team?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5031
+    },
+    {
+      "id": "q03-2",
+      "question": "How many characters must a password contain at minimum?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4479
+    },
+    {
+      "id": "q03-3",
+      "question": "What password length does the example policy require?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4809
+    },
+    {
+      "id": "q03-4",
+      "question": "Are passwords shorter than fourteen characters permitted?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3787
+    },
+    {
+      "id": "q04-1",
+      "question": "Is multi-factor authentication mandatory when accessing remotely?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3646
+    },
+    {
+      "id": "q04-2",
+      "question": "What login protection is required for remote access?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.414
+    },
+    {
+      "id": "q04-3",
+      "question": "Do remote users have to use MFA?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.2926
+    },
+    {
+      "id": "q04-4",
+      "question": "Which authentication requirement applies outside the office?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3635
+    },
+    {
+      "id": "q04-5",
+      "question": "Is a second authentication factor needed for remote connections?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3404
+    },
+    {
+      "id": "q05-3",
+      "question": "When can a closed support request be deleted?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.4142
+    },
+    {
+      "id": "q07-5",
+      "question": "How long does the example policy preserve unsuccessful applicant files?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.6497
+    },
+    {
+      "id": "q08-3",
+      "question": "How does a legal hold change records disposal?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.4026
+    },
+    {
+      "id": "q08-5",
+      "question": "Does the policy pause deletion when a legal hold applies?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.5896
+    },
+    {
+      "id": "q09-3",
+      "question": "How many vacation days are provided per calendar year?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4689
+    },
+    {
+      "id": "q10-1",
+      "question": "How far ahead should staff submit an annual leave request?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.646
+    },
+    {
+      "id": "q10-2",
+      "question": "What is the notice period for requesting leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5865
+    },
+    {
+      "id": "q10-3",
+      "question": "When should a vacation request be filed relative to its start date?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4708
+    },
+    {
+      "id": "q10-5",
+      "question": "What lead time does the example policy ask for annual leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7467
+    },
+    {
+      "id": "q11-1",
+      "question": "How many unused annual leave days may be carried forward, and by when must they be used?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7294
+    },
+    {
+      "id": "q11-2",
+      "question": "What is the leave carryover limit and its expiry date?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4088
+    },
+    {
+      "id": "q11-3",
+      "question": "How many vacation days can roll into the next year, and when do they expire?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4052
+    },
+    {
+      "id": "q11-4",
+      "question": "When must carried-over leave be taken?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5019
+    },
+    {
+      "id": "q11-5",
+      "question": "What happens to unused leave at year end?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5456
+    },
+    {
+      "id": "q14-4",
+      "question": "When should a standard request receive its first reply?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "it_support_policy.md",
+      "top_score": 0.4803
+    },
+    {
+      "id": "q15-4",
+      "question": "When should a managed computer's idle lock activate?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "it_support_policy.md",
+      "top_score": 0.4747
+    },
+    {
+      "id": "q16-5",
+      "question": "What update installation window does the example IT policy set?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3041
+    },
+    {
+      "id": "q17-3",
+      "question": "How many days before departure should a trip be arranged?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4567
+    },
+    {
+      "id": "q17-5",
+      "question": "What is the recommended lead time for travel reservations?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.388
+    },
+    {
+      "id": "q18-1",
+      "question": "Who must approve a trip, and when must approval happen?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.4884
+    },
+    {
+      "id": "q18-3",
+      "question": "What approval is needed before making a travel reservation?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.4944
+    },
+    {
+      "id": "q18-5",
+      "question": "Is prior manager approval required for bookings?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.4593
+    },
+    {
+      "id": "u16",
+      "question": "How many vacation days does a part-time employee receive?",
+      "answerable": false,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": null,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5056
+    }
+  ],
+  "hybrid": [
+    {
+      "id": "q02-1",
+      "question": "Which details belong in a suspected incident report?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5951
+    },
+    {
+      "id": "q02-2",
+      "question": "What information should an employee provide when reporting a security event?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.6442
+    },
+    {
+      "id": "q02-3",
+      "question": "What must be recorded about an incident when it is reported?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5242
+    },
+    {
+      "id": "q02-4",
+      "question": "Which three details does the incident report need?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5604
+    },
+    {
+      "id": "q02-5",
+      "question": "What should I include when I notify the security team?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.5949
+    },
+    {
+      "id": "q03-1",
+      "question": "What is the minimum permitted password length?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3629
+    },
+    {
+      "id": "q03-3",
+      "question": "What password length does the example policy require?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.4056
+    },
+    {
+      "id": "q04-1",
+      "question": "Is multi-factor authentication mandatory when accessing remotely?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4965
+    },
+    {
+      "id": "q04-3",
+      "question": "Do remote users have to use MFA?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.3641
+    },
+    {
+      "id": "q04-4",
+      "question": "Which authentication requirement applies outside the office?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.412
+    },
+    {
+      "id": "q05-3",
+      "question": "When can a closed support request be deleted?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "it_support_policy.md",
+      "top_score": 0.4299
+    },
+    {
+      "id": "q07-5",
+      "question": "How long does the example policy preserve unsuccessful applicant files?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "records_policy.md",
+      "top_score": 0.6093
+    },
+    {
+      "id": "q10-1",
+      "question": "How far ahead should staff submit an annual leave request?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6984
+    },
+    {
+      "id": "q10-2",
+      "question": "What is the notice period for requesting leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6161
+    },
+    {
+      "id": "q10-4",
+      "question": "How many days in advance should leave be requested?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6689
+    },
+    {
+      "id": "q10-5",
+      "question": "What lead time does the example policy ask for annual leave?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7591
+    },
+    {
+      "id": "q11-1",
+      "question": "How many unused annual leave days may be carried forward, and by when must they be used?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.7523
+    },
+    {
+      "id": "q11-2",
+      "question": "What is the leave carryover limit and its expiry date?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5372
+    },
+    {
+      "id": "q11-3",
+      "question": "How many vacation days can roll into the next year, and when do they expire?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.4956
+    },
+    {
+      "id": "q11-4",
+      "question": "When must carried-over leave be taken?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5707
+    },
+    {
+      "id": "q11-5",
+      "question": "What happens to unused leave at year end?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.6286
+    },
+    {
+      "id": "q16-5",
+      "question": "What update installation window does the example IT policy set?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "security_policy.md",
+      "top_score": 0.4105
+    },
+    {
+      "id": "q17-3",
+      "question": "How many days before departure should a trip be arranged?",
+      "answerable": true,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "leave_policy.md",
+      "top_score": 0.5648
+    },
+    {
+      "id": "q17-5",
+      "question": "What is the recommended lead time for travel reservations?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.4791
+    },
+    {
+      "id": "q18-5",
+      "question": "Is prior manager approval required for bookings?",
+      "answerable": true,
+      "abstained": true,
+      "citation_ok": false,
+      "answer_ok": false,
+      "top_source": "travel_policy.md",
+      "top_score": 0.4889
+    },
+    {
+      "id": "u04",
+      "question": "What is the approved hotel price cap for business trips?",
+      "answerable": false,
+      "abstained": false,
+      "citation_ok": false,
+      "answer_ok": null,
+      "top_source": "travel_policy.md",
+      "top_score": 0.567
+    }
+  ]
+}

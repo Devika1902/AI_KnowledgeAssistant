@@ -1,0 +1,218 @@
+{
+  "keyword": {
+    "questions": 120,
+    "corpus_chunks": 10,
+    "retrieval": "keyword",
+    "top_k": 5,
+    "recall_at_k": 0.92,
+    "precision_at_k": 0.202,
+    "citation_accuracy": 0.6833,
+    "answer_correctness_exact_substring": 0.63,
+    "abstention_decision_accuracy": 0.8583,
+    "abstention_rate": 0.2917,
+    "unsupported_answer_rate": 0.05,
+    "latency_ms_mean": 0.0719,
+    "latency_ms_p95": 0.09,
+    "failure_count": 38,
+    "threshold_sweep": [
+      {
+        "threshold": 0.2,
+        "decision_accuracy": 0.8333,
+        "unsupported_answer_rate": 1.0,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.25,
+        "decision_accuracy": 0.8583,
+        "unsupported_answer_rate": 0.8,
+        "answerable_abstention_rate": 0.01
+      },
+      {
+        "threshold": 0.3,
+        "decision_accuracy": 0.8667,
+        "unsupported_answer_rate": 0.75,
+        "answerable_abstention_rate": 0.01
+      },
+      {
+        "threshold": 0.35,
+        "decision_accuracy": 0.875,
+        "unsupported_answer_rate": 0.7,
+        "answerable_abstention_rate": 0.01
+      },
+      {
+        "threshold": 0.4,
+        "decision_accuracy": 0.8833,
+        "unsupported_answer_rate": 0.65,
+        "answerable_abstention_rate": 0.01
+      },
+      {
+        "threshold": 0.45,
+        "decision_accuracy": 0.8833,
+        "unsupported_answer_rate": 0.5,
+        "answerable_abstention_rate": 0.04
+      },
+      {
+        "threshold": 0.5,
+        "decision_accuracy": 0.8917,
+        "unsupported_answer_rate": 0.35,
+        "answerable_abstention_rate": 0.06
+      },
+      {
+        "threshold": 0.55,
+        "decision_accuracy": 0.875,
+        "unsupported_answer_rate": 0.2,
+        "answerable_abstention_rate": 0.11
+      },
+      {
+        "threshold": 0.6,
+        "decision_accuracy": 0.8583,
+        "unsupported_answer_rate": 0.05,
+        "answerable_abstention_rate": 0.16
+      }
+    ]
+  },
+  "semantic": {
+    "questions": 120,
+    "corpus_chunks": 10,
+    "retrieval": "semantic",
+    "top_k": 5,
+    "recall_at_k": 1.0,
+    "precision_at_k": 0.22,
+    "citation_accuracy": 0.6833,
+    "answer_correctness_exact_substring": 0.63,
+    "abstention_decision_accuracy": 0.8,
+    "abstention_rate": 0.35,
+    "unsupported_answer_rate": 0.05,
+    "latency_ms_mean": 7.5481,
+    "latency_ms_p95": 10.65,
+    "failure_count": 38,
+    "threshold_sweep": [
+      {
+        "threshold": 0.2,
+        "decision_accuracy": 0.875,
+        "unsupported_answer_rate": 0.75,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.25,
+        "decision_accuracy": 0.9083,
+        "unsupported_answer_rate": 0.55,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.3,
+        "decision_accuracy": 0.9417,
+        "unsupported_answer_rate": 0.3,
+        "answerable_abstention_rate": 0.01
+      },
+      {
+        "threshold": 0.35,
+        "decision_accuracy": 0.9417,
+        "unsupported_answer_rate": 0.2,
+        "answerable_abstention_rate": 0.03
+      },
+      {
+        "threshold": 0.4,
+        "decision_accuracy": 0.9083,
+        "unsupported_answer_rate": 0.2,
+        "answerable_abstention_rate": 0.07
+      },
+      {
+        "threshold": 0.45,
+        "decision_accuracy": 0.8583,
+        "unsupported_answer_rate": 0.15,
+        "answerable_abstention_rate": 0.14
+      },
+      {
+        "threshold": 0.5,
+        "decision_accuracy": 0.8,
+        "unsupported_answer_rate": 0.05,
+        "answerable_abstention_rate": 0.23
+      },
+      {
+        "threshold": 0.55,
+        "decision_accuracy": 0.65,
+        "unsupported_answer_rate": 0.0,
+        "answerable_abstention_rate": 0.42
+      },
+      {
+        "threshold": 0.6,
+        "decision_accuracy": 0.5333,
+        "unsupported_answer_rate": 0.0,
+        "answerable_abstention_rate": 0.56
+      }
+    ]
+  },
+  "hybrid": {
+    "questions": 120,
+    "corpus_chunks": 10,
+    "retrieval": "hybrid",
+    "top_k": 5,
+    "recall_at_k": 0.97,
+    "precision_at_k": 0.214,
+    "citation_accuracy": 0.7833,
+    "answer_correctness_exact_substring": 0.75,
+    "abstention_decision_accuracy": 0.9083,
+    "abstention_rate": 0.2417,
+    "unsupported_answer_rate": 0.05,
+    "latency_ms_mean": 7.9257,
+    "latency_ms_p95": 11.81,
+    "failure_count": 26,
+    "threshold_sweep": [
+      {
+        "threshold": 0.2,
+        "decision_accuracy": 0.85,
+        "unsupported_answer_rate": 0.9,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.25,
+        "decision_accuracy": 0.9,
+        "unsupported_answer_rate": 0.6,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.3,
+        "decision_accuracy": 0.925,
+        "unsupported_answer_rate": 0.45,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.35,
+        "decision_accuracy": 0.9583,
+        "unsupported_answer_rate": 0.25,
+        "answerable_abstention_rate": 0.0
+      },
+      {
+        "threshold": 0.4,
+        "decision_accuracy": 0.95,
+        "unsupported_answer_rate": 0.2,
+        "answerable_abstention_rate": 0.02
+      },
+      {
+        "threshold": 0.45,
+        "decision_accuracy": 0.925,
+        "unsupported_answer_rate": 0.15,
+        "answerable_abstention_rate": 0.06
+      },
+      {
+        "threshold": 0.5,
+        "decision_accuracy": 0.9083,
+        "unsupported_answer_rate": 0.05,
+        "answerable_abstention_rate": 0.1
+      },
+      {
+        "threshold": 0.55,
+        "decision_accuracy": 0.8,
+        "unsupported_answer_rate": 0.05,
+        "answerable_abstention_rate": 0.23
+      },
+      {
+        "threshold": 0.6,
+        "decision_accuracy": 0.675,
+        "unsupported_answer_rate": 0.0,
+        "answerable_abstention_rate": 0.39
+      }
+    ]
+  }
+}

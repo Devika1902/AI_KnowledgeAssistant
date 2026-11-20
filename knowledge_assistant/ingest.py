@@ -23,20 +23,25 @@ def split_text(text: str, size: int = 700, overlap: int = 100) -> list[str]:
     if size < 1 or overlap < 0 or overlap >= size:
         raise ValueError("Require size > overlap >= 0")
     paras = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    normalized = " ".join(paras)
     chunks: list[str] = []
-    current = ""
-    for para in paras:
-        # Long paragraphs are split on sentence/space boundaries instead of being dropped.
-        pieces = [para[i:i + size] for i in range(0, len(para), size)] if len(para) > size else [para]
-        for piece in pieces:
-            candidate = f"{current} {piece}".strip()
-            if current and len(candidate) > size:
-                chunks.append(current)
-                current = current[-overlap:] + " " + piece if overlap else piece
-            else:
-                current = candidate
-    if current:
-        chunks.append(current)
+    start = 0
+    while start < len(normalized):
+        end = min(start + size, len(normalized))
+        if end < len(normalized):
+            boundary = normalized.rfind(" ", start + int(size * 0.7), end)
+            if boundary > start:
+                end = boundary
+        piece = normalized[start:end].strip()
+        if piece:
+            chunks.append(piece)
+        if end == len(normalized):
+            break
+        next_start = max(start + 1, end - overlap)
+        boundary = normalized.find(" ", next_start, min(len(normalized), next_start + 100))
+        if boundary >= 0:
+            next_start = boundary + 1
+        start = next_start
     return chunks
 
 
