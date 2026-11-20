@@ -1,0 +1,10 @@
+{"question":"How quickly must staff report a suspected security incident?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"within 24 hours"}
+{"question":"What details should an incident report include?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"time observed"}
+{"question":"Are passwords allowed to be shared with colleagues?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"must not be shared"}
+{"question":"How long are support tickets kept after closure?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"180 days"}
+{"question":"How long are security incident records retained?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"7 years"}
+{"question":"What happens when a legal hold is applied?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"suspend normal deletion schedules"}
+{"question":"What is the minimum password length?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"14 characters"}
+{"question":"Is MFA required for remote access?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"Multi-factor authentication is required"}
+{"question":"Should passwords be included in incident reports?","relevant_sources":["sample_policy.md"],"answerable":true,"expected_answer":"Do not include passwords"}
+{"question":"What is the support team's holiday schedule?","relevant_sources":[],"answerable":false}
